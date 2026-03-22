@@ -15,7 +15,7 @@ Engineering and Economics student passionate about software development. Current
 
 **Belarusian State University of Informatics and Radioelectronics (BSUIR)**  
 Information Technology &nbsp;|&nbsp; `2025 — present`  
-Minsk, Belarus
+Minsk, Belarus.
 
 ---
 
